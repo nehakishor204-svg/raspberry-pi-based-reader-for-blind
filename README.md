@@ -31,7 +31,7 @@ Python, Tesseract OCR (pytesseract), Text-to-Speech engine, EasyEDA (circuit des
 Successfully converts printed text to speech in real time under good lighting conditions with clear print. Performs reliably for books, documents, and labels — though accuracy decreases with handwritten text, poor print quality, or challenging lighting.
 
 ## My Contribution
-Contributed to image processing, OCR pipeline implementation, system testing and TTS Implementation.
+Implemented the core OCR and Text-to-Speech pipeline, including image preprocessing (grayscale conversion, bilateral filtering) and GPIO-based button trigger logic.
 
 ## Team
 Neha Kishor, Keerthana Prasad, Jilna KJ, Muhammed Fuad Saneen
